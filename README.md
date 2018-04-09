@@ -7,7 +7,7 @@ This is a simple java program that generates saxophone quartet music, with rando
 
 ## Downloads
 
-[Download JAR](https://github.com/Cam-2002/ContemporarySaxQuartet/raw/master/ContemporarySaxQuartet.jar)
+[Download JAR](https://github.com/Cam-2002/ContemporarySaxQuartet/raw/master/ContemporarySaxQuartet.jar)  
 [Download Source](https://github.com/Cam-2002/ContemporarySaxQuartet/raw/master/ContemporarySaxQuartet-Src.zip)
 
 ## Installing
