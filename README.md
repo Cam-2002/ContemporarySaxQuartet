@@ -5,11 +5,16 @@ Contemporary Sax Quartet Generator
 
 This is a simple java program that generates saxophone quartet music, with random generators. It outputs a midi file in the folder that contains the .JAR file. It will also give the file a random title.
 
+## Downloads
+
+[Download JAR](https://github.com/Cam-2002/ContemporarySaxQuartet/raw/master/ContemporarySaxQuartet.jar)
+[Download Source](https://github.com/Cam-2002/ContemporarySaxQuartet/raw/master/ContemporarySaxQuartet-Src.zip)
+
 ## Installing
 
 **Note:** This requires Java 7.
 
-There is nothing to install, just run the ContemporarySaxQuartet.jar file. This can either be done by double clicking in windows, or through the command line with "java -jar ContemporarySaxQuartet.jar". There are no flags.
+There is nothing to install, just download and run the ContemporarySaxQuartet.jar file. This can either be done by double clicking in windows, or through the command line with "java -jar ContemporarySaxQuartet.jar". There are no flags.
 
 ## Settings
 
